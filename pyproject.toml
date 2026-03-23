@@ -10,5 +10,6 @@ dependencies = [
     "pip>=26.0.1",
     "spacy>=3.8.11",
     "torch>=2.10.0",
+    "torchinfo>=1.8.0",
     "tqdm>=4.67.3",
 ]
